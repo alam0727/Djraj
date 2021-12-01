@@ -923,7 +923,7 @@
 }
 @media only screen and (max-width: 680px) {
 	.ttm-search-overlay form{max-width: 350px;margin: 55px auto 73px;}
-	.site-branding img{max-width: 175px;}
+	.site-branding img{max-width: 175px!important;}
 
 }
 
